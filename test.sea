@@ -1,0 +1,9 @@
+let private short x be 255
+
+global main
+    printf("hello welcome to my demo i have mad in sea\ntoday we will test if variables lowk are ass or not\n")
+    printf("here x is yes = %d\n" x)
+    add(x 1)
+    printf("now it is yes = %d\n" x)
+    return
+end
